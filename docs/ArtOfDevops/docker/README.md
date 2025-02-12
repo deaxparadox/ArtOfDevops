@@ -13,4 +13,4 @@ Docker is a platform that allows you to "build, ship, and run any app anywhere".
 
 ### Docker Manual
 
-- [Docker storage](manual/README.md)
+- [Docker storage](manual/storage/README.md)
